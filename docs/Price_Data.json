@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 29.99,
+    "features": [
+      "Access to all gym equipment",
+      "Locker room access",
+      "1 group class per week",
+      "No contract"
+    ]
+  },
+
+  
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 49.99,
+    "features": [
+      "Access to all gym equipment",
+      "Unlimited group classes",
+      "Locker room and sauna access",
+      "Free towel service",
+      "3 guest passes per month"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 79.99,
+    "features": [
+      "24/7 gym access",
+      "Access to all gym equipment",
+      "Unlimited group classes",
+      "Locker room, sauna, and steam room access",
+      "Free personal training session (1 per month)",
+      "Unlimited guest passes"
+    ]
+  }
+]
